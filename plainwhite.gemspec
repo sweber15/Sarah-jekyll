@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "plainwhite"
   spec.version       = "0.7"
-  spec.authors       = ["Samarjeet"]
+  spec.authors       = ["Sarah"]
   spec.email         = ["thelehhman@gmail.com"]
 
-  spec.summary       = "A portfolio style jekyll theme for writers"
+  spec.summary       = "Sarah's latest blog"
   spec.homepage      = "https://thelehhman.com/"
   spec.license       = "MIT"
 
